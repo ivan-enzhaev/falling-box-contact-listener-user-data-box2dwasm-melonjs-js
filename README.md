@@ -1,16 +1,9 @@
-Buy me a coffee: https://boosty.to/ivan_8observer8/donate This service supports PayPal. You can perform single sign-on with your Google account.
+Live demo: https://ivan-enzhaev.github.io/webgl10-js/falling-box-contact-listener-user-data-box2dwasm-melonjs-js/
 
-Live demo: https://8observer8.github.io/webgl10-js/falling-box-contact-listener-user-data-box2dwasm-melonjs-js/
-
-Playgrounds:
-
-- Replit: https://replit.com/@8Observer8/Falling-box-contact-listener-Box2D-WASM-MelonJS-JS
-- Plunker: https://plnkr.co/edit/pEngeORqyQZrtDBf?preview
-- Glitch: https://glitch.com/edit/#!/berry-denim-chronometer
+Playground: https://plnkr.co/edit/pEngeORqyQZrtDBf?preview
 
 Topic and discussions:
 
-- Melon.js topic: https://melonjs.discourse.group/t/basic-examples-of-using-box2d-wasm-with-melon-js-in-javascript/57
 - Melon.js discussion: https://github.com/melonjs/melonJS/discussions/1192
 - Box2D-WASM discussion: https://github.com/Birch-san/box2d-wasm/discussions/67
 
