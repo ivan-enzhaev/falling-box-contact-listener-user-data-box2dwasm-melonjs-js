@@ -1,5 +1,3 @@
-Live demo: https://ivan-enzhaev.github.io/webgl10-js/falling-box-contact-listener-user-data-box2dwasm-melonjs-js/
-
 Playground: https://plnkr.co/edit/pEngeORqyQZrtDBf?preview
 
 Topic and discussions:
